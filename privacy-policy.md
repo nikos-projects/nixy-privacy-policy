@@ -33,7 +33,7 @@ We collect specific user and server data across the following core functionaliti
 
 ## 4. User Rights (How to Delete Your Data)
 
-We provide a single, unified command that triggers a complete and automated GDPR-compliant purge. Executing this command will instantly and permanently erase all of your data from both internal and external records, and will automatically remove you from the active server to guarantee no further tracking occurs. This command also deletes logs that have been sent to the specified logs channel.
+We provide a single, unified command that triggers a complete and automated GDPR-compliant purge. Executing this command will instantly and permanently erase all of your data from both internal and external records, meaning any messages where the discord bot sent your data in, and will automatically remove you from the active server to guarantee no further tracking occurs. This command also deletes logs that have been sent to the specified logs channel.
 
 Because command names or prefixes may change over time, users should check the current command list by typing `help` with any valid bot prefix (including, but not limited to: `&`, `=`, `$`, `;`, `:`, `?`, `!`, `.`) and look for the command description regarding data deletion or automated erasure.
 
