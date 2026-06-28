@@ -28,7 +28,7 @@ We collect specific user and server data across the following core functionaliti
 ## 3. Data Retention (When Data is Deleted)
 
 *   **Server Snapshots:** Snapshots are taken automatically every hour. We maintain a strict rolling history of the last 50 snapshots. Consequently, data captured within a specific snapshot is permanently overwritten and deleted approximately 50 hours after it was recorded.
-*   **Server Logging:** Logged data is stored indefinitely to maintain server history for administrators. However, users may request a server moderator to manually delete specific message logs from their logging channels.
+*   **Server Logging:** Logged data is stored indefinitely to maintain server history for administrators. However, users may request a server moderator to manually delete specific message logs from their logging channels. In some cases these logs are deleted automatically, like when running the data deletion command. You can also request the developer to delete your logged data manually.
 *   **AI Feature Moderation:** To optimize infrastructure resources, automated safety scans run every 5 minutes. Following the completion of the scan, processed DM message data is entirely and permanently deleted from our temporary cache.
 
 ## 4. User Rights (How to Delete Your Data)
