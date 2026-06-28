@@ -39,4 +39,4 @@ Because command names or prefixes may change over time, users should check the c
 
 ## 5. Contact Information
 
-If you have questions regarding this Privacy Policy or require manual data assistance, you can contact the developer directly via Discord at `[Your_Discord_Username_Here]` or by joining our support server.
+If you have questions regarding this Privacy Policy or require manual data assistance, you can contact the developer directly via Discord at `niko_3992` or by directly emailing us at [taubert.philipp2@gmail.com](mailto:taubert.philipp2@gmail.com)
