@@ -37,7 +37,7 @@ We collect specific user and server data across the following core functionaliti
 - **Server Snapshots:** Used exclusively to restore a server's state, structure, and recent context in the event of a server "raid" or malicious destruction. 
 - **Server Logging:** Used to display real-time changes to the server, its channels, its messages, and its users in designated administrative logging channels.
 - **AI Feature Moderation:** Used to automatically review conversations for illegal or highly inappropriate content. This automated review ensures compliance with safety guidelines, and users violating these rules may be automatically banned from using the AI features.
-- **Police Reports:** If any illegal content is spotted, Server Snapshots may be used as gathering evidence, any unrelated user to this evidence is not included in the extracted snapshot to furthermore retain privacy. Gathering evidence in this way is a last resort, but please do not use this bot for illegal activities such as spreading misinformation about developers ("Übele Nachrede") or harassing any users of discord utilizing other functions the bot provides.
+- **Police Reports:** If any illegal content is spotted, Server Snapshots may be used as gathering evidence, any unrelated user to this evidence is not included in the extracted snapshot to furthermore retain privacy. Gathering evidence in this way is a last resort, but please do not use this bot for illegal activities such as spreading misinformation about developers ("Üble Nachrede") or harassing any users of discord utilizing other functions the bot provides.
 
 **Legal Basis for Processing:** We process your data under **Legitimate Interest** (server restoration, moderation, and safety enforcement) and **Consent** (when you voluntarily use AI features via Discord DMs). You may withdraw consent at any time by using the data deletion command outlined in Section 4.
 
@@ -71,4 +71,4 @@ Nixy does not knowingly collect, process, or store data from users under the age
 ## 6. Contact Information
 
 If you have questions regarding this Privacy Policy or require manual data assistance, you can contact the developer directly via Discord at `niko_3992` or by emailing us at [taubert.philipp2@gmail.com](mailto:taubert.philipp2@gmail.com).
-Note regarding these contact informations: I have been getting harrased lately for this Privacy Policy having not clarified some things in detail, thus leading to misunderstandings about how this bot collects and uses data, but pleade refer from harrasing me further, its not fun for anyone, and I'm still a minor which is messed up.
+Note regarding these contact information: I have been getting harrased lately for this Privacy Policy having not clarified some things in detail, thus leading to misunderstandings about how this bot collects and uses data, but please refer from harrasing me further, its not fun for anyone, and I'm still a minor which is messed up.
