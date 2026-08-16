@@ -6,7 +6,7 @@
 
 By using Nixy in any Discord server, you acknowledge and agree to the terms outlined in this Privacy Policy. If you do not agree with any part of this policy, you must refrain from using the bot and may request immediate data deletion via the command specified in Section 4.
 
-**For server administrators:** By inviting Nixy to your server and agreeing to Discord's Terms of Service, you are also agreeing to this Privacy Policy on behalf of your server members. It is your responsibility to inform your community about Nixy's data practices, including but not limited to server snapshots, message logging, and AI moderation. If your server rules reference this policy, members who agree to those rules are bound by its terms.
+**For server administrators:** By inviting Nixy to your server and agreeing to Discord's Terms of Service, you are also agreeing to this Privacy Policy. It is your responsibility to inform your community about Nixy's data practices, including but not limited to server snapshots, message logging, and AI moderation. If your server rules reference this policy, members who agree to those rules are bound by its terms.
 
 ---
 
@@ -37,7 +37,7 @@ We collect specific user and server data across the following core functionaliti
 - **Server Snapshots:** Used exclusively to restore a server's state, structure, and recent context in the event of a server "raid" or malicious destruction. 
 - **Server Logging:** Used to display real-time changes to the server, its channels, its messages, and its users in designated administrative logging channels.
 - **AI Feature Moderation:** Used to automatically review conversations for illegal or highly inappropriate content. This automated review ensures compliance with safety guidelines, and users violating these rules may be automatically banned from using the AI features.
-- **Police Reports:** If any illegal content is spotted, Server Snapshots may be used as gathering evidence, any unrelated user to this evidence is not included in the extracted snapshot to furthermore retain privacy. Gathering evidence in this way is a last resort, but please do not use this bot for illegal activities such as spreading misinformation about developers ("Üble Nachrede") or harassing any users of discord utilizing other functions the bot provides.
+- **Police Reports:** If any illegal content is spotted, Server Snapshots may be used as gathering evidence, any unrelated user to this evidence is not included in the extracted snapshot to furthermore retain privacy. Gathering evidence in this way is a last resort, but please do not use this bot for illegal activities such as spreading misinformation about the developer ("Üble Nachrede", example: The recent harrasement of me caused people calling me "Worse than a Pedophile") or harassing any users of discord utilizing other functions the bot provides.
 
 **Legal Basis for Processing:** We process your data under **Legitimate Interest** (server restoration, moderation, and safety enforcement) and **Consent** (when you voluntarily use AI features via Discord DMs). You may withdraw consent at any time by using the data deletion command outlined in Section 4.
 
@@ -48,7 +48,7 @@ We collect specific user and server data across the following core functionaliti
 ## 3. Data Retention (When Data is Deleted)
 
 - **Server Snapshots:** Snapshots are taken automatically every hour. We maintain a strict rolling history of the last 50 snapshots. Consequently, data captured within a specific snapshot is permanently overwritten and deleted approximately 50 hours after it was recorded. In case of a requested Deletion, the contents of the user running the deletion is immediately removed from these snapshots, this will, however, not remove the full snapshot, to prevent "raiders" from erasing the last resort method that Server owners have to restore from a raid.
-- **Server Logging:** Logged data is stored indefinitely to maintain server history for administrators. However, users may request a server moderator to manually delete specific log entries from their logging channels. Logs are also automatically removed when the data deletion command is executed. You may additionally request the developer to delete your logged data manually. Please note that the logged data will remain logged in Discord's official Audit Log.
+- **Server Logging:** Logged data is stored indefinitely (until deletion is requested via a command or server admin, this does not delete Discord Audit Log) to maintain server history for administrators. However, users may request a server moderator to manually delete specific log entries from their logging channels. Logs are also automatically removed when the data deletion command is executed. You may additionally request the developer to delete your logged data manually. Please note that the logged data will remain logged in Discord's official Audit Log.
 
 ---
 
